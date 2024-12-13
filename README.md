@@ -1,0 +1,1 @@
+This project is a clone of Postman, a popular API development and testing tool. The objective is to replicate key functionalities of Postman, including sending API requests, managing environments, and viewing responses, in a web-based interface. 
