@@ -17,6 +17,9 @@ Features include:
 - History Management: View the previous history requests.
 - Responsive Design: Responsive components and collapsable sidebar
 
+- 
+# Hosted Link
+  https://timely-gingersnap-a6f10e.netlify.app/
 # File Structure
 
 - [Components](src/components/)
